@@ -55,9 +55,7 @@ const login = (0, catchAsync_1.default)((req, res) => __awaiter(void 0, void 0, 
         statusCode: http_status_1.default.OK,
         success: true,
         message: `Logged in successfully`,
-        data: {
-            token: others.accessToken,
-        },
+        token: others.accessToken,
     });
 }));
 exports.authController = {

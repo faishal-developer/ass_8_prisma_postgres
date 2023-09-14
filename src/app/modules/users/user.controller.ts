@@ -27,6 +27,18 @@ const getSingleUser = catchAsync(async (req: Request, res: Response) => {
   });
 });
 
+const getProfile = catchAsync(async (req: Request, res: Response) => {
+  const id = req?.user?.id;
+  const result = await userService.getSingleUser(id);
+
+  sendResponse(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: result ? 'OK' : 'NOT FOUND',
+    data: result,
+  });
+});
+
 const updateSingleUser = catchAsync(async (req: Request, res: Response) => {
   const id = req.params.id;
   const data = req.body;
@@ -57,4 +69,5 @@ export const userController = {
   getSingleUser,
   updateSingleUser,
   deleteSingleUser,
+  getProfile,
 };

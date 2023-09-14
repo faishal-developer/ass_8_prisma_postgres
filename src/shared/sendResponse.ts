@@ -10,6 +10,7 @@ type IApiReponse<T> = {
     total: number;
   };
   data?: T | null;
+  token?: string;
 };
 
 const sendResponse = <T>(res: Response, data: IApiReponse<T>): void => {
