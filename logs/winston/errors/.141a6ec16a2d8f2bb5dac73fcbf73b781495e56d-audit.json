@@ -1,0 +1,75 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\.141a6ec16a2d8f2bb5dac73fcbf73b781495e56d-audit.json",
+  "files": [
+    {
+      "date": 1694524584111,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-12-09-19-error.log",
+      "hash": "cc441843a5f4453ec993ee825f2200e431f12ad354010092237caa1baf792a9a"
+    },
+    {
+      "date": 1694527219623,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-12-09-20-error.log",
+      "hash": "8cd3064f3f38a3481ad14ce966cf7ed60731355a9a047e5eea5c1326793b9c1d"
+    },
+    {
+      "date": 1694536484543,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-12-09-22-error.log",
+      "hash": "bd7a2b4e7335f07bc3d8d09dec2755a5ac680b5a19884f93fa5c915859d4cc9a"
+    },
+    {
+      "date": 1694538042769,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-12-09-23-error.log",
+      "hash": "790f4e34d2910b915e599062768d122f561b11a899662eeea274cab0be96b2df"
+    },
+    {
+      "date": 1694576618262,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-13-09-09-error.log",
+      "hash": "126e65a82d78d3014b26c00ebb0719373b4de276669a05a2f7da64926c9328a9"
+    },
+    {
+      "date": 1694577619705,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-13-09-10-error.log",
+      "hash": "f9ed38d7cbf1cb4bc8c5e890b613b8e058ee501c1f0c9db927851908e89fe2ae"
+    },
+    {
+      "date": 1694591670566,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-13-09-13-error.log",
+      "hash": "8cb84731d0a2b614c63f3236c7df299b7024bb6e2dc2f519e9a0e368ec222594"
+    },
+    {
+      "date": 1694593728789,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-13-09-14-error.log",
+      "hash": "fba8edd37d97d3ad83011cc424e95b865ef2088e11e5fb09d2521e6b6af1a00a"
+    },
+    {
+      "date": 1694595662651,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-13-09-15-error.log",
+      "hash": "ddaa17909e89c868502182be62bae5006b75e4660961dcce270bfb9e98cb36fe"
+    },
+    {
+      "date": 1694614758770,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-13-09-20-error.log",
+      "hash": "8ed5f66c86c7672fe1191b82c9ce99220b2d6c5c5f03dd60f0f2031b7e87b807"
+    },
+    {
+      "date": 1694617282781,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-13-09-21-error.log",
+      "hash": "7e2fb6e2b16e601e97b6b4ce7b88268739f8153bedf316f6ddf2aa072df33b4b"
+    },
+    {
+      "date": 1694623849609,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-13-09-22-error.log",
+      "hash": "af42053f1701ce71ab786be8d503d6dff8ddfb29c8208bc663f26caee4be07d9"
+    },
+    {
+      "date": 1694624758990,
+      "name": "E:\\nextLevelRoot\\Assignment-8-postgres-prisma-project\\logs\\winston\\errors\\phu-2023-13-09-23-error.log",
+      "hash": "e2a23aadc9f8955244a976386a6cc475b18d6a92d3bdcc28dc6d7dcfe814f73b"
+    }
+  ],
+  "hashType": "sha256"
+}
